@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://edu123:edu123@meanconnector.xdhtz.mongodb.net/<dbname>?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "fa8f9ead46a5c9ab53f4",
+  "githubSecret": "374019e88933923e61b9de1d309b8d75166a1878"
 }
